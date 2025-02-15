@@ -1,6 +1,6 @@
 
 # O usuário deve poder adicionar, 
-# remover, alterar, listar e modificar 
+# remover, listar e modificar 
 # itens na lista. 
 # OBS: Deve-se usar dicionário
 
